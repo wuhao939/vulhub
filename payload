@@ -1,3 +1,0 @@
-#!/bin/sh
-
-id > /var/www/html/zmx
