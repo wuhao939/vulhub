@@ -1,3 +1,3 @@
 [submodule "git"]
 	path = git
-	url = ssh://-oProxyCommand=sh<zmx
+	url = ssh://-oProxyCommand=sh<zmx/wat
